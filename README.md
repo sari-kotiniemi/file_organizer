@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/Sari-Kotiniemi/python_file_organizer)](https://github.com/Sari-Kotiniemi/python_file_organizer/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/sari-kotiniemi/file_organizer)](https://github.com/sari-kotiniemi/file_organizer/commits/main)
 
 A simple script to organize files into folders by type.
 
